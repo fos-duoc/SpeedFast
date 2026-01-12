@@ -40,7 +40,7 @@ SpeedFast/
 
 ## Instrucciones de Ejecución
 
-1. Abrir el proyecto en IntelliJ IDEA
+1. Abrir el proyecto en IntelliJ IDEA o en Apache NetBeans (yo usé Apache, me gusta más la interfaz)
 2. Ejecutar la clase `Main.java` ubicada en `com.speedfast.app`
 3. Observar la salida en consola que demuestra:
    - Sobrescritura con lógica diferenciada por tipo
