@@ -86,6 +86,14 @@ SpeedFast/
 
 ---
 
+## Imágenes Test:
+<img width="1651" height="1378" alt="SpeedFastS2_test_build" src="https://github.com/user-attachments/assets/ecf21eb4-0b1c-4b7f-b121-52fcdd730a55" />
+
+<img width="1459" height="1372" alt="SpeedFastS2_test1" src="https://github.com/user-attachments/assets/4d813eb6-8476-4620-99cb-b88c4349f456" />
+
+<img width="1526" height="1373" alt="SpeedFastS2_test2" src="https://github.com/user-attachments/assets/3b60ffcf-12bd-43ce-9dd8-3727d7316a5f" />
+
+
 **Autor:** Fuad Oñate  
 **Asignatura:** Desarrollo Orientado a Objetos II  
 **Semana:** 2 - Experiencia 1  
