@@ -131,6 +131,13 @@ semana3/
 | Interfaces | `Despachable`, `Cancelable`, `Rastreable` |
 | Desacoplamiento | Responsabilidades separadas por interfaces |
 
+## Screenshots de Pruebas
+
+![Test 1](Test_SpeedFast_S3_1.png)
+![Test 2](Test_SpeedFast_S3_2.png)
+![Test 3](Test_SpeedFast_S3_3.png)
+![Test 4](Test_SpeedFast_S3_4.png)
+
 ## Repositorio GitHub
 
 [https://github.com/fos-duoc/SpeedFast](https://github.com/fos-duoc/SpeedFast)
