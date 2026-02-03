@@ -62,6 +62,14 @@ semana4/
 2. Ejecutar la clase `Main.java` ubicada en `com.speedfast.app`
 3. Observar la salida concurrente en consola
 
+## Testeo Imagenes Build y Run
+
+<img width="1443" height="1095" alt="SpeedFast4_test_build" src="https://github.com/user-attachments/assets/75722976-1813-439a-a937-0c4a6f1582fa" />
+<img width="1434" height="1111" alt="SpeedFast4_test" src="https://github.com/user-attachments/assets/2695d324-1b06-41b1-9e9f-847fbdd12e73" />
+<img width="1442" height="1381" alt="SpeedFast4_test_2" src="https://github.com/user-attachments/assets/fb37a029-4d8c-48aa-8641-27debdf26a8b" />
+<img width="1448" height="1379" alt="SpeedFast4_test_3" src="https://github.com/user-attachments/assets/87f7ac9c-e470-4aa5-b867-073eeb735f34" />
+
+
 ## Repositorio GitHub
 
 [https://github.com/fos-duoc/SpeedFast](https://github.com/fos-duoc/SpeedFast)
